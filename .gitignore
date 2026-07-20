@@ -15,22 +15,8 @@ __pycache__/
 # C extensions
 *.so
 
-# Data and raster files (Large files)
-*.tif
-*.tiff
-*.shp
-*.shx
-*.dbf
-*.prj
-*.csv
-*.geojson
-data/raw/
-data/processed/
 
-# Models
-*.pkl
-*.joblib
-*.h5
+
 
 # Logs
 *.log
