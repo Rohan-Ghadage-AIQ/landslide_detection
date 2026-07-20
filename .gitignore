@@ -1,0 +1,51 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Data and raster files (Large files)
+*.tif
+*.tiff
+*.shp
+*.shx
+*.dbf
+*.prj
+*.csv
+*.geojson
+data/raw/
+data/processed/
+
+# Models
+*.pkl
+*.joblib
+*.h5
+
+# Logs
+*.log
+logs/
+
+# Node.js (in case of full repo add)
+node_modules/
+dist/
+.npm/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# MacOS
+.DS_Store
